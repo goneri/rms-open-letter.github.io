@@ -1233,6 +1233,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. GlitchyPSI (@GlitchyPSIX)
 1. Gökay Şatır (Collabora)
 1. Göktuğ Kayaalp
+1. Gonéri Le Bouder
 1. Gordon Byrnes
 1. Gordon Haff (OSI Member)
 1. Gordon Stratton
